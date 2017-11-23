@@ -1,5 +1,6 @@
 # Twitter-Sentiment-Analysis
 Following methods are used for Twitter Sentiment analysis:
+
 LSTM:
 LSTM is very good at capturing long range dependencies and it is thus useful in sentiment analysis.
 Accuracy obtained:0.6950
