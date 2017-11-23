@@ -9,6 +9,6 @@ CNN:
 CNN come in handy when our aim is to capture dependensies between the terms and thus it is a popular technique for sentiment analysis.
 Accuracy obtained:0.6041
 
-Naive Baye's:
-Naive Baye's is very popular classification method that is simple yet effective.
-Accuracy obtained:0.6519
+SVM:
+SVM is is simple yet effective classification method.It gave decent results for sentiment analysis.
+Accuracy obtained:0.5919
